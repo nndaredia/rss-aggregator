@@ -64,12 +64,15 @@ Why? AI news doesn't move so fast that hourly matters. Daily collection keeps th
 
 ## Core Data Sources (MVP)
 
-| Source | Type | Category | Priority |
-|--------|------|----------|----------|
-| Rundown AI | Newsletter | AI News | High |
-| TLDR Newsletter | Newsletter | Tech/AI News | High |
-| TechCrunch | Tech news site | Tech News | High |
-| Ars Technica | Tech news site | Tech News | High |
+## RSS Feeds for AI News Aggregator (Final List)
+
+| Source          | Type        | Topic         | RSS Feed URL                                           |
+|-----------------|-------------|---------------|---------------------------------------------------------|
+| Rundown AI      | Newsletter  | AI News       | https://rss.beehiiv.com/feeds/2R3C6Bt5wj.xml           |
+| TLDR AI         | Newsletter  | AI Tech       | https://tldr.tech/api/rss/ai                           |
+| Ars Technica AI | News Site   | AI / Machine Learning | https://arstechnica.com/ai/feed                 |
+| TechCrunch      | News Site   | General Tech (AI posts included; no AI-only feed) | https://techcrunch.com/feed/ |
+
 
 ---
 
